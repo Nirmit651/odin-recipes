@@ -1,0 +1,71 @@
+html{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.links {
+    color: black;
+}
+
+a{
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.Tcookies{
+    display: inline;
+    float: left;
+    padding-left: 320px;
+    font-size: 25px
+}
+
+.Toreo{
+    display: inline;
+    padding: 200px;
+    font-size: 25px;
+
+}
+
+.Tbaileys{
+    display: inline;
+    float: right;
+    padding-right: 370px;
+    margin-top: -45px;
+    font-size: 25px;
+
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-50px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+.cookies{
+    display: inline-block;
+    width: 350px;
+    height: 500px;
+    float: left;
+    padding-left: 300px;
+
+}
+
+.oreo{
+    display: inline-block;
+    width: 350px;
+    height: 500px;
+    padding-left: 120px;
+
+    
+}
+
+.baileys{
+    display: inline-block;
+    width: 350px;
+    height: 500px;
+    float: right;
+    padding-right: 300px;
+}
